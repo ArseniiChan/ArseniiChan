@@ -5,9 +5,6 @@ Hi, I’m Arsenii, a 20-year-old software engineer and student at CUNY City Coll
 ### 🚀 What I'm Working On  
 I’m building a portfolio of projects, such as my TurboType game, which is aimed at enhancing typing speed and accuracy. I’m also focused on improving my web development skills using React, Node.js, and SQL, and diving deeper into AI-driven software solutions.
 
-### 🏆 Hackathons and Challenges  
-Hackathons and coding challenges are an exciting part of my journey. I’m constantly pushing myself to learn more and to innovate. I’ve recently participated in a few coding competitions and am always looking forward to upcoming opportunities to showcase my skills.
-
 ### 🤝 Leadership and Community  
 While I’m deeply invested in personal projects, I also believe in the power of community and leadership. I’ve previously helped organize tech meetups and events, and I’m eager to continue growing both as a developer and as a leader in the tech community.
 
@@ -34,5 +31,5 @@ When I’m not coding, you’ll likely find me staying active or reading up on t
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=your-github-arseniichan&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
