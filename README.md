@@ -11,9 +11,6 @@ While I’m deeply invested in personal projects, I also believe in the power of
 ### 📅 What’s Next?  
 I’m continuously working on refining my skills in C++, web development, and AI. Next on the list is expanding my GitHub with more projects, contributing to open source, and collaborating with other developers on exciting new ideas.
 
-### 🏓 Beyond the Code  
-When I’m not coding, you’ll likely find me staying active or reading up on the latest tech trends. Let’s talk about AI, coding challenges, or anything tech-related!
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsenii-chan) 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/arseniichan/)
