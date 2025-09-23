@@ -1,15 +1,18 @@
-# 💫 About Me:
-### 👋 Elevator Pitch  
-Hi, I’m Arsenii, a 20-year-old software engineer and student at CUNY City College. I’m passionate about coding, solving real-world problems, and creating efficient and user-friendly software. Currently, I’m working on a typing game project called TurboType and exploring new ways to integrate AI into my applications.
+# 🐧 About Me  
 
-### 🚀 What I'm Working On  
-I’m building a portfolio of projects, such as my TurboType game, which is aimed at enhancing typing speed and accuracy. I’m also focused on improving my web development skills using React, Node.js, and SQL, and diving deeper into AI-driven software solutions.
+Hi, I’m **Arsenii Chan**, a Computer Science student at CUNY City College. I’m passionate about building technology that solves real problems and scales. My work bridges software engineering, AI, and entrepreneurship.  
 
-### 🤝 Leadership and Community  
-While I’m deeply invested in personal projects, I also believe in the power of community and leadership. I’ve previously helped organize tech meetups and events, and I’m eager to continue growing both as a developer and as a leader in the tech community.
+## 🚀 Projects & Ventures  
+- **Velpla** – fintech platform offering flexible cash/crypto rewards with AI-powered optimization  
+- **SceneTheory** – creative agency + upcoming SaaS product (SceneTheory AI) for social media automation  
+- Technical portfolio spanning React, Node.js, SQL, C++, and AI-driven applications  
 
-### 📅 What’s Next?  
-I’m continuously working on refining my skills in C++, web development, and AI. Next on the list is expanding my GitHub with more projects, contributing to open source, and collaborating with other developers on exciting new ideas.
+## 🤝 Experience & Community  
+I’ve collaborated with startups through accelerator programs, managed multi-platform content strategy for high-profile creators, and built businesses from the ground up. These experiences have sharpened both my engineering skills and my ability to lead and scale projects.  
+
+## 📈 What’s Next  
+I’m expanding my GitHub with impactful projects, contributing to open source, and preparing for opportunities in software engineering and venture building.  
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsenii-chan) 
