@@ -14,11 +14,10 @@ I’ve collaborated with startups through accelerator programs, managed multi-pl
 I actively participate in hackathons and datathons, where I work with diverse teams to design and build solutions under tight deadlines. Recent highlights include:  
 - **IBM TechXchange 2025 Hackathon** – Top 50 scoring team with *ResumeBeaver*, an AI-powered resume optimization tool  
 - **DivHacks 2025 @ Columbia University** – diversity-focused hackathon driving inclusive tech solutions  
-- **MTA Datathon 2025** – analyzed ACE (bus camera enforcement) data to create insights for urban mobility  
+- **MTA x MHC Datathon 2025** – analyzed ACE (bus camera enforcement) data to generate insights for urban mobility  
 
 ## 📈 What’s Next  
-I’m expanding my GitHub with impactful projects, contributing to open source, and preparing for opportunities in software engineering and venture building.  
-  
+I’m expanding my GitHub with impactful projects, contributing to open source, and preparing for opportunities in software engineering and venture building.    
 
 
 ## 🌐 Socials:
