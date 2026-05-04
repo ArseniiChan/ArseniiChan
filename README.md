@@ -16,7 +16,7 @@ Cornell Break Through Tech AI Fellow (2026–27), AI4ALL Ignite Fellow, Basta Fe
 
 ## Hackathons
 
-IBM TechXchange 2025 (Top 50 of 4,000+ teams, ResumeBeaver), DivHacks 2025 @ Columbia, MTA x MHC Datathon 2025, HunterHacks 2026.
+IBM TechXchange 2025 (Top 50 of 4,000+ teams, ResumeBeaver), MTA x MHC Datathon 2025, HunterHacks 2026.
 
 ## Stack
 
