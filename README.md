@@ -1,44 +1,27 @@
-# 🐧 About Me  
+# Arsenii Chan
 
-Hi, I’m **Arsenii Chan**, a Computer Science student at CUNY City College. I’m passionate about building technology that solves real problems and scales. My work bridges software engineering, AI, and entrepreneurship.  
+Computer Science junior at The City College of New York, expected May 2027. I build data-heavy applications across civic-tech, scientific computing, and applied AI.
 
-## 🚀 Projects & Ventures  
-- **Velpla** – fintech platform offering flexible cash/crypto rewards with AI-powered optimization  
-- **SceneTheory** – creative agency + upcoming SaaS product (SceneTheory AI) for social media automation  
-- Technical portfolio spanning React, Node.js, SQL, C++, and AI-driven applications  
+The work I'm proudest of is pinned below.
 
-## 🤝 Experience & Community  
-I’ve collaborated with startups through accelerator programs, managed multi-platform content strategy for high-profile creators, and built businesses from the ground up. These experiences have sharpened both my engineering skills and my ability to lead and scale projects.  
+## Experience
 
-## 🏆 Hackathons & Collaboration  
-I actively participate in hackathons and datathons, where I work with diverse teams to design and build solutions under tight deadlines. Recent highlights include:  
-- **IBM TechXchange 2025 Hackathon** – Top 50 scoring team with *ResumeBeaver*, an AI-powered resume optimization tool  
-- **DivHacks 2025 @ Columbia University** – diversity-focused hackathon driving inclusive tech solutions  
-- **MTA x MHC Datathon 2025** – analyzed ACE (bus camera enforcement) data to generate insights for urban mobility  
+**Anne Abel (memoir author),** Sept 2023 to present. Built and manage link.anneabelauthor.com and anneabelauthor.com.
 
-## 📈 What’s Next  
-I’m expanding my GitHub with impactful projects, contributing to open source, and preparing for opportunities in software engineering and venture building.    
+**Sydra Inc.,** Backend & embedded systems intern, Jul–Aug 2025. Real-time monitoring system for industrial 3D printers; sub-500ms fault detection over WebSockets.
 
+## Fellowships
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsenii-chan) 
-[![Devpost](https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white)](https://devpost.com/arseniichan/)
+Cornell Break Through Tech AI Fellow (2026–27), AI4ALL Ignite Fellow, Basta Fellow.
 
-# 💻 Tech Stack:
-**Programming Languages:**  
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+## Hackathons
 
-**Frameworks and Tools:**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+IBM TechXchange 2025 (Top 50 of 4,000+ teams, ResumeBeaver), DivHacks 2025 @ Columbia, MTA x MHC Datathon 2025, HunterHacks 2026.
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=ArseniiChan&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArseniiChan&theme=react&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## Stack
 
+TypeScript, Python, SQL. Next.js, React, Node/Express, FastAPI, Tailwind. MySQL, MongoDB. Mapbox, Socket.io, Docker, AWS, Vercel.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/arsenii-chan) · [Devpost](https://devpost.com/arseniichan)
